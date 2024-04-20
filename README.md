@@ -1,2 +1,2 @@
 # timezone-discord-bot
-Discord bot that uses time in a specific timezoone as nickname
+Discord bot that uses the time from a specific timezone as nickname.
